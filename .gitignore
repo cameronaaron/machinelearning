@@ -1,3 +1,6 @@
 genome_Cameron_Aaron_v5_Full_20200219062701.zip
 
 Project 1 write up.pdf
+*.xml
+.DS_Store
+*.iml
